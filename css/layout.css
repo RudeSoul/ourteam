@@ -1,0 +1,16 @@
+.ourteam-wrapper {
+  background-image: url("../images/ourteambg.png");
+}
+
+.ourteam-main,
+.teamcard-wrp,
+.teamcard-back {
+  width: auto;
+}
+.ourteam-wrapper {
+  margin: auto;
+}
+.teamcard-wrp {
+  height: 337px;
+  width: 270px;
+}
